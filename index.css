@@ -20,6 +20,7 @@
     
 
 }
+
 #right-upper{
     height:50% ;
     width:100%;
@@ -93,3 +94,8 @@ background-color: rgb(255,253,237);
     color: white;
     border-radius: 50px;
 }
+#jam{
+    display: flex;
+    margin-top: 0.04rem;
+   }
+ 
