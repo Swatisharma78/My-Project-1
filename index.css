@@ -1,9 +1,10 @@
 #navbar{
-    height:72px;
+    height:85px;
     width:100%;
-    
-    /* border-top: 3px solid rgb(47,66,84); */
+    /* border: 3px solid rgb(47,66,84); */
     display: flex;
+    margin-top: -25px;
+    box-shadow: 5px 5px 5px  #c9c6c6;
 }
 #navbar-left{
     height:65px;
@@ -83,9 +84,60 @@ background-color: rgb(255,253,237);
     margin-top: 10px;
     
 }
+.img1{
+    width: 100%;
+    margin-top: 40px;
+}
+.img2{
+    display: grid;
+    grid: 150px / auto auto auto;
+}
+.img5{
+    display: grid;
+    grid: 150px / auto auto auto auto;
+
+}
+.img9{
+    display: grid;
+    grid: 150px / auto auto;
+
+}
+.img10{
+    display: grid;
+    grid: 150px / auto auto auto auto;
+
+}
+.img11{
+    display: grid;
+    grid: 150px / auto auto auto auto;
+    margin-top: 350px;
+
+}
+.img3{
+    width: 100%;
+}
 #navbar-img{
     height:100%;
     width:100%;
+}
+.img4{
+    width: 100%;
+    margin-top: 480px;
+  
+}
+.img6{
+    width: 100%;
+    margin-top: 355px;
+  
+}
+.img7{
+    width: 100%;
+    /* margin-top: 355px; */
+  
+}
+.img8{
+    width: 100%;
+    margin-top: 355px;
 }
 #sideimg{
     height:100%;
@@ -100,3 +152,9 @@ background-color: rgb(255,253,237);
     margin-top: 0.04rem;
    }
  
+#carouselExampleIndicators{
+    margin-top: 10px;
+}
+#carouselExampleIndicators2{
+    margin-top: 50px;
+}
